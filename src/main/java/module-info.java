@@ -5,4 +5,6 @@ module base.example.base2 {
 
     opens base.example.base2 to javafx.fxml;
     exports base.example.base2;
+    exports base.example;
+    opens base.example to javafx.fxml;
 }
