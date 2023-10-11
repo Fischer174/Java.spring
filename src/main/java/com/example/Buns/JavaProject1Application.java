@@ -1,4 +1,4 @@
-package com.example.javaproject1;
+package com.example.Buns;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

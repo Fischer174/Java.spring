@@ -1,4 +1,4 @@
-package com.example.javaproject1.Case1;
+package com.example.Buns.Mod1.Case1;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

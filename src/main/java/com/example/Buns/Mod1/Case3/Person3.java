@@ -1,21 +1,21 @@
-package com.example.javaproject1.Case2;
-
+package com.example.Buns.Mod1.Case3;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
-@Component("myPerson2")
-public class Person2 {
-    private Pet2 pet2;
+@Component("myPerson3")
+public class Person3 {
+    private Pet3 pet3;
 
     @Autowired
-    public Person2(@Qualifier("dog2") Pet2 pet2) {
-        this.pet2 = pet2;
+    public Person3(@Qualifier("dog3") Pet3 pet3) {
+        this.pet3 = pet3;
+        System.out.println("Person is created");
     }
 
     public void callYourPet() {
         System.out.println("Hello, my lovely Pet!");
-        pet2.say();
+        pet3.say();
     }
 }

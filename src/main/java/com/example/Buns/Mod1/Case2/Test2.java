@@ -1,4 +1,4 @@
-package com.example.javaproject1.Case2;
+package com.example.Buns.Mod1.Case2;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

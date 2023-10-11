@@ -1,4 +1,4 @@
-package com.example.javaproject1.Case4;
+package com.example.Buns.Mod1.Case4;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

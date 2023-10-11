@@ -1,4 +1,4 @@
-package com.example.javaproject1.Case3;
+package com.example.Buns.Mod1.Case3;
 
 public interface Pet3 {
     void say();
