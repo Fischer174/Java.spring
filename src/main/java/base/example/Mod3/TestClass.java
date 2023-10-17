@@ -1,4 +1,4 @@
-package base.example.base3;
+package base.example.Mod3;
 
 public class TestClass {
 }
