@@ -7,7 +7,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         try {
-            // Ввод данных от пользователя
+            // Ввод данных от пользователя //
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
             System.out.print("Введите имя: ");
