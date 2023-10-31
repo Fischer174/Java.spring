@@ -1,6 +1,7 @@
 module base.example.base2 {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.sql;
 
 
     opens base.example.base2 to javafx.fxml;
